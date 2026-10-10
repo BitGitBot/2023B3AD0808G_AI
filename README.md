@@ -1,7 +1,7 @@
 # Artificial Intelligence labs
 
 Run each notebook from top to bottom. Tasks and saved results follow the lab sheets.
-Code and written answers were prepared with Codex and checked by execution.
+Code was written with the help of Codex and checked by execution.
 
 1. [Agents](lab_01_agents/agents.ipynb)
 2. [Search](lab_02_search/search.ipynb)
